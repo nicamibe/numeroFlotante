@@ -1,5 +1,6 @@
 public class numero {
     public static void main(String[] args) {
+        
         //asignacion de variable flotante
         double numeroPi = 3.14;
 
